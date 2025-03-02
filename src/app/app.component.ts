@@ -9,3 +9,5 @@ import { CommonModule } from '@angular/common';
   templateUrl: './app.component.html',
   imports: [CommonModule, ProductListComponent, CartComponent],})
 export class AppComponent { }
+
+
